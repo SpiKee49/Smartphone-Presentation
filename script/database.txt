@@ -1,0 +1,3 @@
+<div class="review"><h2>René Bukovina</h2><h5>r.buko@gmail.com</h5><p>Rating 4/5</p><h4>Review</h4><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid repellendus aut quam illum nihil delectus corporis assumenda sapiente, provident repudiandae similique voluptatem ex veritatis ipsum necessitatibus amet impedit quisquam magni?</p></div>
+
+<div class="review"><h2>Tondo Lukac</h2><h5>pele@centrum.sk</h5><p>Rating 4/5</p><h4>Review</h4><p>asdasdasd</p></div>

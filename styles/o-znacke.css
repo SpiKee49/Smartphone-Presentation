@@ -1,0 +1,22 @@
+.content{
+    text-align: center;
+}
+.img{
+    text-align:center;
+    width: 100%;
+    margin:0 ;
+    height: auto;
+}
+article{
+    width: 100%;
+    margin-top: 50px;
+    padding: 0;
+    text-align: center;
+}
+article h1{
+    display: block;
+    font-size: 50px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
+}
