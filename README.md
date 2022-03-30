@@ -14,7 +14,7 @@ Main point was to create website that would act as a presentation site, when lau
 -Overall pleasing UI and UX 
 -Site has to be bilingual with English as one of the languages used
 
-##Technologies used
+## Technologies used
 -HTML
 -CSS
 -PHP
