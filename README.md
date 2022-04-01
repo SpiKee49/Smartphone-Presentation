@@ -15,7 +15,7 @@ Main point was to create website that would act as a presentation site, when lau
  - Site has to be bilingual with English as one of the languages used
 
 ## Technologies used
--HTML
--CSS
--PHP
--other technologies were not allowed to be used in this project
+ - HTML
+ - CSS
+ - PHP
+ - other technologies were not allowed to be used in this project
